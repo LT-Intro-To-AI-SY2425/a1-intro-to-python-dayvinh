@@ -13,11 +13,13 @@ Mr. Berg will look at all your files to determine what you have completed.  If t
 ## Reflection Questions
 
 1. What is your initial thoughts about the python programming language?
+   My initial thoughts about the pyton programming language is that it is much more simple and short compared to Java. It is generally easier to understand as there isn't as much code needed to be written.
 
 
 
 2. Describe some similarities and differences that you found between python and other programming languages you have used in the past?
-
+   Python, Java, and Javascript have simliar code, except Python is shorter and simpler than them in terms of the code needed to write.
 
 
 3. What are some things that you learned through this assignment?
+   I learned the overall structure of python thorugh solving problems that were similiar to what I would solve in Java to give me a stronger understanding on how they compare when it comes to these kind of problems.
