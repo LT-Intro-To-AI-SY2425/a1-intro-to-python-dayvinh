@@ -21,9 +21,9 @@ assert fizbuzz(15) == "FizzBuzz", "fizzbuzz 15 test"
 
 def evenOdd(input_num):
     if(input_num % 2 == 0):
-        return 'even'
+        print("even")
     else:
-        return 'odd'
+        print("odd")
 
 # 2. Sum of Numbers: Create a program that calculates the sum of all numbers from 1 to a given number (inclusive) provided by the user.
 
